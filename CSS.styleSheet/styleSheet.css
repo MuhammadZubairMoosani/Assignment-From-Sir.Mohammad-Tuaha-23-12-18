@@ -1,0 +1,200 @@
+* {
+    font-family: sans-serif;
+}
+body {
+    margin: 0;
+}
+.container_page_01 {
+    background-image: url("https://hookagency.com/wp-content/uploads/2015/11/light-blue-gradient-ui-gradient.jpg");  
+    background-size: cover;
+    background-repeat: round;
+    height: 38.1em;
+}
+header {
+    background-color: #FBFDFF;
+    color: #747474;
+}
+h3 {
+    display: inline-block;
+    margin-left: 10em;
+}
+.ulPage_01 {
+    display: inline-block;
+    margin-left: 25em;
+}
+.ulPage_01 > li {
+    font-size: .9em;
+    margin-left: 2em;
+    list-style-type: none;
+    display: inline-block;
+}
+.ulPage_01 > li:hover{
+   cursor: pointer;
+   opacity: .8;
+}
+.option_btn_page01 {
+    border: none;
+    margin: 12em 0em 0em -1.8em;
+    transform: rotateZ(270deg);
+    padding: .5em;
+    border-bottom-left-radius: .5em;
+    border-bottom-right-radius: .5em;
+    color: white;
+    font-weight: bold;
+    font-size: .9em;
+    background-color: #3286B7;
+    cursor: pointer;
+}
+.h1_page01 {
+    margin: -1em 12em 0em 3em;
+    color: white;
+    font-weight:normal;
+    font-size: 3em;
+}
+.mainParagraph {
+    color: white;
+    line-height: 1.5em;
+    margin: 2.5em 35em 0em 9em;
+}
+.form_page01 {
+    background-color: white;
+    margin: -17em 11em 0em 55em;
+    border-radius: .2em;
+    padding: .5em 1em 1em 1.5em ;
+}
+.form_page01_Paragraph {
+    font-size: 1.7em;
+}
+.form_page01_span01 {
+    vertical-align: sub;
+}
+.form_page01_span02 {
+    color: #328BEC;
+    font-weight: bold;
+}
+.input_page01 {
+    width: 17em;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid lightgray;
+    margin: 0em 0em 2.5em 1.5em;
+}
+.formSubmit_btn_page01 {
+    background-color: #328BEC;
+    border-radius: 2em;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 1em 2em;
+    margin: 0em 0em 2em 3em;
+    outline: none;
+    cursor: pointer;
+}
+.formSubmit_btn_page01:hover {
+    box-shadow: 1px 2px 5px black;
+    transition: .2s;
+}
+/* First Page styleSheet Close */
+
+/* Second Page styleSheet Start */
+.container_page_02 {
+    background-image: url("https://static1.squarespace.com/static/59a4f55f2994caf642815e9c/t/59aa3beac534a5dcf20cdda3/1504328697036/work.jpeg?format=750w");  
+    background-size: cover;
+    background-repeat: round;
+    height: 38.1em;
+}
+.nested_div_page02 {
+    background: rgba(0, 0, 0, 0.4);
+    height: 38.1em;
+}
+.option_btn_page02 {
+    border: none;
+    margin: 12em 0em 0em -1.8em;
+    transform: rotateZ(270deg);
+    padding: .5em;
+    border-bottom-left-radius: .5em;
+    border-bottom-right-radius: .5em;
+    color: white;
+    font-weight: bold;
+    font-size: .9em;
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+}
+.option_btn_page02:hover {
+    background-color: black;
+    transition: .5s;
+}
+.center_div {
+    text-align: center;
+    margin: -8em 0em 0em 0em;
+}
+.mainParagraph_page02 {
+    color: white;
+    font-size: 2.5em;
+}
+table {
+    margin-top: -1.5em;
+    color: white;
+    margin-left: 34em;
+}
+th {
+    font-weight: normal;
+    padding: .5em;
+    font-size: 1.5em;
+    border-bottom: 1px solid white;
+}
+td {
+    padding: .5em;
+}
+.mainParagraph02_page02 {
+    color: white;
+    line-height: 1.2;
+    font-size: 1em;
+    margin-bottom: 1.5em;
+}
+.form_page02 {
+    padding: .2em;
+    background-color: white;
+    margin: 0em 29em 0em 29em;
+    border-radius: 2em;
+}
+.input_page02 {
+    width: 18em;
+    border: none;
+    margin-left: 1em;
+    outline: none;
+    font-size: 1em;
+}
+.formNotifyMe_btn_page02 {
+    padding: 1em 2em;
+    background-color: #328BEC;
+    border: none;
+    font-size: .8em;
+    border-radius: 2em;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+.formNotifyMe_btn_page02:hover {
+    box-shadow: 1px 2px 5px black;
+    transition: .2s;
+}
+.ulPage_02 {
+    margin: 0;
+    color: white;
+    padding: 0em 0em 0em 30.5em;
+    font-size: 1.1em;
+    margin-top: 9.7em;
+
+}
+.ulPage_02 > li {
+    display: inline;
+    padding-left: 1em; 
+}
+.ulPage_02 > li:hover {
+    color: black;
+    transition: .5s;
+    cursor: pointer;
+}
